@@ -1,0 +1,17 @@
+E:\test\obj\Debug\net7.0\test.csproj.AssemblyReference.cache
+E:\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+E:\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+E:\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+E:\test\bin\Debug\net7.0\test.exe
+E:\test\bin\Debug\net7.0\test.deps.json
+E:\test\bin\Debug\net7.0\test.runtimeconfig.json
+E:\test\bin\Debug\net7.0\test.dll
+E:\test\bin\Debug\net7.0\test.pdb
+E:\test\obj\Debug\net7.0\test.dll
+E:\test\obj\Debug\net7.0\refint\test.dll
+E:\test\obj\Debug\net7.0\test.pdb
+E:\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+E:\test\obj\Debug\net7.0\ref\test.dll
+E:\test\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\test\obj\Debug\net7.0\test.csproj.CopyComplete

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8vCzcUSTzcEjoV6IE5eMLtadjVh6cfEb2oPjVdzcx+Eur0x4IRmHEErGsswzp6d12p8kL59F5Rl8SJDZSeWumw==",
+  "success": true,
+  "projectFilePath": "E:\\test\\GIT\\Test\\test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.3\\microsoft.netcore.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.3\\microsoft.aspnetcore.app.runtime.win-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
